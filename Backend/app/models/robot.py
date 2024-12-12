@@ -9,7 +9,7 @@ class Robot(BaseModel):
     cpu_usage: int = Field(..., ge=0, le=100, title="CPU Usage", description="CPU usage percentage")
     ram_consumption: int = Field(..., ge=0, title="RAM Consumption", description="RAM consumption in MB")
     last_updated: datetime = Field(..., title="Last Updated", description="Timestamp of the last update")
-    location: Tuple[float, float] = Field(..., title="Location Coordinates", description="Latitude and longitude of the robot's location")
+    location_coordinates: Tuple[float, float] = Field(..., title="Location Coordinates", description="Latitude and longitude of the robot's location")
 
     class Config:
         schema_extra = {
@@ -20,6 +20,6 @@ class Robot(BaseModel):
                 "cpu_usage": 60,
                 "ram_consumption": 2048,
                 "last_updated": "2024-12-12T11:00:00",
-                "location": (34.0522, -118.2437),
+                "location_coordinates": (34.0522, -118.2437),
             }
         }

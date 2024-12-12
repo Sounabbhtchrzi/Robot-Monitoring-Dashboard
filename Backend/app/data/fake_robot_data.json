@@ -1,0 +1,1202 @@
+[
+    {
+        "robot_id": "63e06a27-8fb5-49b6-afdd-555d6a01f131",
+        "online_status": false,
+        "battery_percentage": 40,
+        "cpu_usage": 25,
+        "ram_consumption": 5514,
+        "last_updated": "2024-12-11 11:19:51",
+        "location_coordinates": [
+            34.946804,
+            -1.265231
+        ]
+    },
+    {
+        "robot_id": "fbe83522-ea53-4869-97cb-d8cb40007f83",
+        "online_status": false,
+        "battery_percentage": 59,
+        "cpu_usage": 77,
+        "ram_consumption": 6243,
+        "last_updated": "2024-12-11 10:50:10",
+        "location_coordinates": [
+            13.700687,
+            -50.895561
+        ]
+    },
+    {
+        "robot_id": "ab465182-3288-4d91-a2bf-3b7448d1b9f0",
+        "online_status": false,
+        "battery_percentage": 60,
+        "cpu_usage": 34,
+        "ram_consumption": 3845,
+        "last_updated": "2024-12-11 10:41:02",
+        "location_coordinates": [
+            31.0267,
+            56.005055
+        ]
+    },
+    {
+        "robot_id": "96881d11-7a06-4275-b64b-ad26f935111a",
+        "online_status": false,
+        "battery_percentage": 65,
+        "cpu_usage": 13,
+        "ram_consumption": 7000,
+        "last_updated": "2024-12-11 10:55:50",
+        "location_coordinates": [
+            -54.823863,
+            -2.796469
+        ]
+    },
+    {
+        "robot_id": "225b4c2b-12c7-4649-a61e-5fde5e96c555",
+        "online_status": true,
+        "battery_percentage": 28,
+        "cpu_usage": 31,
+        "ram_consumption": 7007,
+        "last_updated": "2024-12-11 10:49:20",
+        "location_coordinates": [
+            -2.136094,
+            56.199452
+        ]
+    },
+    {
+        "robot_id": "ff812149-19ff-4004-9206-f4d467637493",
+        "online_status": false,
+        "battery_percentage": 33,
+        "cpu_usage": 96,
+        "ram_consumption": 1246,
+        "last_updated": "2024-12-11 11:10:16",
+        "location_coordinates": [
+            -63.665718,
+            -121.737855
+        ]
+    },
+    {
+        "robot_id": "b8160337-3440-4bae-a40f-b4aa8f8c25ad",
+        "online_status": true,
+        "battery_percentage": 3,
+        "cpu_usage": 0,
+        "ram_consumption": 1246,
+        "last_updated": "2024-12-11 11:10:52",
+        "location_coordinates": [
+            -20.683334,
+            94.293747
+        ]
+    },
+    {
+        "robot_id": "14acff23-8ed3-4152-9047-a50a0a30a69f",
+        "online_status": false,
+        "battery_percentage": 19,
+        "cpu_usage": 78,
+        "ram_consumption": 1544,
+        "last_updated": "2024-12-11 10:47:26",
+        "location_coordinates": [
+            -12.732148,
+            -26.722574
+        ]
+    },
+    {
+        "robot_id": "2cbeaa95-9f63-4721-9b84-3e9b08745d7a",
+        "online_status": false,
+        "battery_percentage": 37,
+        "cpu_usage": 14,
+        "ram_consumption": 2960,
+        "last_updated": "2024-12-11 11:26:34",
+        "location_coordinates": [
+            -51.457729,
+            19.688121
+        ]
+    },
+    {
+        "robot_id": "e099243f-820a-4d4d-bc90-e60d4f9e5cdb",
+        "online_status": true,
+        "battery_percentage": 68,
+        "cpu_usage": 51,
+        "ram_consumption": 2228,
+        "last_updated": "2024-12-11 10:41:07",
+        "location_coordinates": [
+            -60.499743,
+            133.44173
+        ]
+    },
+    {
+        "robot_id": "4762ed53-19b6-4cc4-9409-f1228f7cc6ea",
+        "online_status": true,
+        "battery_percentage": 5,
+        "cpu_usage": 51,
+        "ram_consumption": 2039,
+        "last_updated": "2024-12-11 11:23:18",
+        "location_coordinates": [
+            -52.473727,
+            -17.779076
+        ]
+    },
+    {
+        "robot_id": "5c945c4f-0611-424c-b46e-7b7fe4b1df11",
+        "online_status": true,
+        "battery_percentage": 83,
+        "cpu_usage": 65,
+        "ram_consumption": 4895,
+        "last_updated": "2024-12-11 11:10:11",
+        "location_coordinates": [
+            82.598529,
+            48.667985
+        ]
+    },
+    {
+        "robot_id": "9e07060f-9559-49b8-abc7-99288d430f42",
+        "online_status": true,
+        "battery_percentage": 74,
+        "cpu_usage": 66,
+        "ram_consumption": 2073,
+        "last_updated": "2024-12-11 11:35:56",
+        "location_coordinates": [
+            -25.523968,
+            -99.898939
+        ]
+    },
+    {
+        "robot_id": "05a07ee1-c719-42bf-bdeb-153d03b04259",
+        "online_status": true,
+        "battery_percentage": 79,
+        "cpu_usage": 37,
+        "ram_consumption": 6446,
+        "last_updated": "2024-12-11 10:41:54",
+        "location_coordinates": [
+            -74.964727,
+            -0.151521
+        ]
+    },
+    {
+        "robot_id": "ea428773-aa72-44c5-96dc-0e8428133cb4",
+        "online_status": false,
+        "battery_percentage": 60,
+        "cpu_usage": 25,
+        "ram_consumption": 5686,
+        "last_updated": "2024-12-11 11:02:48",
+        "location_coordinates": [
+            13.895783,
+            30.515882
+        ]
+    },
+    {
+        "robot_id": "4a9a8eea-c565-452f-91da-faa17b7f99b7",
+        "online_status": false,
+        "battery_percentage": 53,
+        "cpu_usage": 25,
+        "ram_consumption": 7731,
+        "last_updated": "2024-12-11 11:25:53",
+        "location_coordinates": [
+            -0.227045,
+            -64.816627
+        ]
+    },
+    {
+        "robot_id": "ce139145-648d-4320-905f-4e8f59b7d0ea",
+        "online_status": true,
+        "battery_percentage": 10,
+        "cpu_usage": 48,
+        "ram_consumption": 335,
+        "last_updated": "2024-12-11 10:55:01",
+        "location_coordinates": [
+            70.210546,
+            -34.658737
+        ]
+    },
+    {
+        "robot_id": "fd400617-2eb1-4927-8f3c-5da8c9c1cc54",
+        "online_status": true,
+        "battery_percentage": 90,
+        "cpu_usage": 52,
+        "ram_consumption": 738,
+        "last_updated": "2024-12-11 11:38:08",
+        "location_coordinates": [
+            60.596029,
+            -166.915228
+        ]
+    },
+    {
+        "robot_id": "d8f246f8-f108-4d30-9aac-1eb38b0e598b",
+        "online_status": true,
+        "battery_percentage": 88,
+        "cpu_usage": 4,
+        "ram_consumption": 3808,
+        "last_updated": "2024-12-11 11:36:00",
+        "location_coordinates": [
+            59.283144,
+            112.831324
+        ]
+    },
+    {
+        "robot_id": "5050f197-2672-4570-ab32-d4178bdca74f",
+        "online_status": true,
+        "battery_percentage": 61,
+        "cpu_usage": 4,
+        "ram_consumption": 536,
+        "last_updated": "2024-12-11 11:09:51",
+        "location_coordinates": [
+            -20.059018,
+            113.092798
+        ]
+    },
+    {
+        "robot_id": "4dc8c952-2783-4c9d-8afe-c7dc04b0a8b2",
+        "online_status": false,
+        "battery_percentage": 59,
+        "cpu_usage": 21,
+        "ram_consumption": 6524,
+        "last_updated": "2024-12-11 11:11:29",
+        "location_coordinates": [
+            -63.449754,
+            -57.056152
+        ]
+    },
+    {
+        "robot_id": "8e1c1193-b3a1-4214-b2dc-54342dbf66ea",
+        "online_status": false,
+        "battery_percentage": 61,
+        "cpu_usage": 8,
+        "ram_consumption": 3149,
+        "last_updated": "2024-12-11 11:11:52",
+        "location_coordinates": [
+            -75.571513,
+            -75.356031
+        ]
+    },
+    {
+        "robot_id": "47f24734-f6b3-4dd7-b815-e8d9b0af70f4",
+        "online_status": true,
+        "battery_percentage": 28,
+        "cpu_usage": 15,
+        "ram_consumption": 1935,
+        "last_updated": "2024-12-11 11:39:30",
+        "location_coordinates": [
+            15.866981,
+            -18.590846
+        ]
+    },
+    {
+        "robot_id": "637d6501-eb70-4587-8109-b98611ce6193",
+        "online_status": false,
+        "battery_percentage": 4,
+        "cpu_usage": 26,
+        "ram_consumption": 272,
+        "last_updated": "2024-12-11 10:42:55",
+        "location_coordinates": [
+            89.227173,
+            -87.865617
+        ]
+    },
+    {
+        "robot_id": "a3b16317-8e4b-458b-b94a-f3302ee404bf",
+        "online_status": false,
+        "battery_percentage": 90,
+        "cpu_usage": 26,
+        "ram_consumption": 1107,
+        "last_updated": "2024-12-11 11:23:03",
+        "location_coordinates": [
+            64.675787,
+            -53.221029
+        ]
+    },
+    {
+        "robot_id": "d79c0e64-b5d4-420b-bb8d-17b191328ced",
+        "online_status": false,
+        "battery_percentage": 62,
+        "cpu_usage": 16,
+        "ram_consumption": 2861,
+        "last_updated": "2024-12-11 11:23:32",
+        "location_coordinates": [
+            34.545757,
+            113.864172
+        ]
+    },
+    {
+        "robot_id": "58c4cf43-8960-4182-bcac-e3674ec6a2c8",
+        "online_status": true,
+        "battery_percentage": 31,
+        "cpu_usage": 8,
+        "ram_consumption": 356,
+        "last_updated": "2024-12-11 10:53:20",
+        "location_coordinates": [
+            -42.893046,
+            -167.420256
+        ]
+    },
+    {
+        "robot_id": "ae8febf3-6970-486c-b7f1-d791abcec117",
+        "online_status": true,
+        "battery_percentage": 93,
+        "cpu_usage": 54,
+        "ram_consumption": 3197,
+        "last_updated": "2024-12-11 11:07:32",
+        "location_coordinates": [
+            5.491881,
+            -129.337418
+        ]
+    },
+    {
+        "robot_id": "745df5e5-13c2-4c6c-b84f-20912b369b22",
+        "online_status": true,
+        "battery_percentage": 100,
+        "cpu_usage": 25,
+        "ram_consumption": 4773,
+        "last_updated": "2024-12-11 11:00:42",
+        "location_coordinates": [
+            -45.115784,
+            128.870957
+        ]
+    },
+    {
+        "robot_id": "4e3303bd-618d-4911-a902-fa7871467712",
+        "online_status": false,
+        "battery_percentage": 74,
+        "cpu_usage": 78,
+        "ram_consumption": 8135,
+        "last_updated": "2024-12-11 11:11:38",
+        "location_coordinates": [
+            -20.480345,
+            -76.968867
+        ]
+    },
+    {
+        "robot_id": "4f92cddf-49f6-4c1e-9f10-9a41f5fe2516",
+        "online_status": true,
+        "battery_percentage": 76,
+        "cpu_usage": 48,
+        "ram_consumption": 3210,
+        "last_updated": "2024-12-11 11:11:04",
+        "location_coordinates": [
+            61.692251,
+            -64.616647
+        ]
+    },
+    {
+        "robot_id": "91557b0b-1e04-4ae6-b969-715968a2e350",
+        "online_status": false,
+        "battery_percentage": 25,
+        "cpu_usage": 63,
+        "ram_consumption": 3617,
+        "last_updated": "2024-12-11 10:55:32",
+        "location_coordinates": [
+            55.79345,
+            15.006572
+        ]
+    },
+    {
+        "robot_id": "4d2a87e1-4a1a-44e1-9c94-de39a58ca8e5",
+        "online_status": false,
+        "battery_percentage": 55,
+        "cpu_usage": 36,
+        "ram_consumption": 1177,
+        "last_updated": "2024-12-11 11:39:37",
+        "location_coordinates": [
+            83.338977,
+            -120.649179
+        ]
+    },
+    {
+        "robot_id": "fc04997f-613a-404c-a559-357a766e5b01",
+        "online_status": false,
+        "battery_percentage": 2,
+        "cpu_usage": 10,
+        "ram_consumption": 2694,
+        "last_updated": "2024-12-11 11:36:46",
+        "location_coordinates": [
+            84.769389,
+            16.075329
+        ]
+    },
+    {
+        "robot_id": "5850bed0-a5c8-444a-99d2-d881a5960c5b",
+        "online_status": false,
+        "battery_percentage": 48,
+        "cpu_usage": 6,
+        "ram_consumption": 3640,
+        "last_updated": "2024-12-11 10:53:05",
+        "location_coordinates": [
+            -69.972699,
+            22.144022
+        ]
+    },
+    {
+        "robot_id": "b6c88982-525e-4584-bff4-e5f0d19472a1",
+        "online_status": false,
+        "battery_percentage": 89,
+        "cpu_usage": 73,
+        "ram_consumption": 7735,
+        "last_updated": "2024-12-11 11:31:07",
+        "location_coordinates": [
+            1.127363,
+            7.063154
+        ]
+    },
+    {
+        "robot_id": "e3c9b29f-5e47-4935-bf6f-1b553718c4b0",
+        "online_status": true,
+        "battery_percentage": 10,
+        "cpu_usage": 91,
+        "ram_consumption": 5565,
+        "last_updated": "2024-12-11 11:24:01",
+        "location_coordinates": [
+            -22.26614,
+            144.555577
+        ]
+    },
+    {
+        "robot_id": "57e839d7-4e80-4c4f-8e84-bf6c489ef87a",
+        "online_status": false,
+        "battery_percentage": 57,
+        "cpu_usage": 92,
+        "ram_consumption": 5808,
+        "last_updated": "2024-12-11 11:15:34",
+        "location_coordinates": [
+            57.970626,
+            130.620007
+        ]
+    },
+    {
+        "robot_id": "1e1c9964-b421-4cc1-a067-2b53fb1122f4",
+        "online_status": false,
+        "battery_percentage": 53,
+        "cpu_usage": 46,
+        "ram_consumption": 4250,
+        "last_updated": "2024-12-11 10:42:15",
+        "location_coordinates": [
+            55.190206,
+            -179.673558
+        ]
+    },
+    {
+        "robot_id": "27687ccc-5084-4b31-94dc-c33913f852b8",
+        "online_status": false,
+        "battery_percentage": 95,
+        "cpu_usage": 34,
+        "ram_consumption": 2108,
+        "last_updated": "2024-12-11 11:08:59",
+        "location_coordinates": [
+            48.264959,
+            171.483698
+        ]
+    },
+    {
+        "robot_id": "ede876e3-29e8-46bd-9401-9e9f33156540",
+        "online_status": true,
+        "battery_percentage": 57,
+        "cpu_usage": 66,
+        "ram_consumption": 731,
+        "last_updated": "2024-12-11 11:08:42",
+        "location_coordinates": [
+            -18.858072,
+            -97.276211
+        ]
+    },
+    {
+        "robot_id": "53a06388-8eba-46b1-8f86-847f7111d5ef",
+        "online_status": false,
+        "battery_percentage": 21,
+        "cpu_usage": 10,
+        "ram_consumption": 5824,
+        "last_updated": "2024-12-11 11:04:03",
+        "location_coordinates": [
+            12.998697,
+            78.623084
+        ]
+    },
+    {
+        "robot_id": "98527b21-6144-41db-8626-0ca55f32cec5",
+        "online_status": true,
+        "battery_percentage": 17,
+        "cpu_usage": 43,
+        "ram_consumption": 4110,
+        "last_updated": "2024-12-11 11:34:11",
+        "location_coordinates": [
+            -5.10509,
+            -120.21083
+        ]
+    },
+    {
+        "robot_id": "d9eb42a4-dc2b-4626-89a9-9148bc781648",
+        "online_status": true,
+        "battery_percentage": 95,
+        "cpu_usage": 14,
+        "ram_consumption": 3723,
+        "last_updated": "2024-12-11 10:42:11",
+        "location_coordinates": [
+            81.050194,
+            -177.02827
+        ]
+    },
+    {
+        "robot_id": "81f04815-4eb1-49c8-ab45-72d58765022f",
+        "online_status": false,
+        "battery_percentage": 54,
+        "cpu_usage": 9,
+        "ram_consumption": 1781,
+        "last_updated": "2024-12-11 11:36:35",
+        "location_coordinates": [
+            83.665849,
+            -152.545041
+        ]
+    },
+    {
+        "robot_id": "8ef92dce-9b97-4181-b7dd-1522168503ed",
+        "online_status": true,
+        "battery_percentage": 83,
+        "cpu_usage": 57,
+        "ram_consumption": 6661,
+        "last_updated": "2024-12-11 11:24:53",
+        "location_coordinates": [
+            -51.909792,
+            -62.669263
+        ]
+    },
+    {
+        "robot_id": "aef1187c-cefb-4c53-9dab-12078cd35c5f",
+        "online_status": true,
+        "battery_percentage": 84,
+        "cpu_usage": 17,
+        "ram_consumption": 5684,
+        "last_updated": "2024-12-11 11:05:51",
+        "location_coordinates": [
+            52.798683,
+            22.006965
+        ]
+    },
+    {
+        "robot_id": "b15ad967-998c-464c-b443-57ce3ea6ef98",
+        "online_status": true,
+        "battery_percentage": 24,
+        "cpu_usage": 70,
+        "ram_consumption": 5415,
+        "last_updated": "2024-12-11 11:12:23",
+        "location_coordinates": [
+            -51.063679,
+            -106.922748
+        ]
+    },
+    {
+        "robot_id": "6244c296-35a6-49e6-8820-fc4032b67121",
+        "online_status": false,
+        "battery_percentage": 15,
+        "cpu_usage": 23,
+        "ram_consumption": 7565,
+        "last_updated": "2024-12-11 10:56:54",
+        "location_coordinates": [
+            15.305885,
+            120.756179
+        ]
+    },
+    {
+        "robot_id": "a546a97e-0232-420d-b9cd-2272971af643",
+        "online_status": false,
+        "battery_percentage": 34,
+        "cpu_usage": 58,
+        "ram_consumption": 596,
+        "last_updated": "2024-12-11 10:56:35",
+        "location_coordinates": [
+            -85.799679,
+            -65.627076
+        ]
+    },
+    {
+        "robot_id": "3e420c3a-d6a9-4b9f-9bf3-af35172c4d6c",
+        "online_status": true,
+        "battery_percentage": 74,
+        "cpu_usage": 53,
+        "ram_consumption": 5223,
+        "last_updated": "2024-12-11 10:45:29",
+        "location_coordinates": [
+            -38.360645,
+            -18.172778
+        ]
+    },
+    {
+        "robot_id": "ec020736-4d01-4284-836f-20eb293e34f2",
+        "online_status": false,
+        "battery_percentage": 98,
+        "cpu_usage": 86,
+        "ram_consumption": 981,
+        "last_updated": "2024-12-11 11:13:04",
+        "location_coordinates": [
+            17.925938,
+            -164.30293
+        ]
+    },
+    {
+        "robot_id": "05231fdb-66d7-4e01-894f-b072bb9fb9ea",
+        "online_status": true,
+        "battery_percentage": 71,
+        "cpu_usage": 38,
+        "ram_consumption": 2813,
+        "last_updated": "2024-12-11 10:45:00",
+        "location_coordinates": [
+            28.5848,
+            66.977096
+        ]
+    },
+    {
+        "robot_id": "925596de-d1d4-4c0b-b7e3-8cc8a3e42991",
+        "online_status": false,
+        "battery_percentage": 86,
+        "cpu_usage": 42,
+        "ram_consumption": 3432,
+        "last_updated": "2024-12-11 11:17:05",
+        "location_coordinates": [
+            65.351146,
+            27.298935
+        ]
+    },
+    {
+        "robot_id": "f15c5823-5584-4650-bc31-a9af412bc9e1",
+        "online_status": false,
+        "battery_percentage": 51,
+        "cpu_usage": 43,
+        "ram_consumption": 8083,
+        "last_updated": "2024-12-11 10:42:32",
+        "location_coordinates": [
+            -44.122977,
+            -106.39891
+        ]
+    },
+    {
+        "robot_id": "8f218c7a-2310-42b8-b035-5d1b0c4ddbd2",
+        "online_status": true,
+        "battery_percentage": 1,
+        "cpu_usage": 15,
+        "ram_consumption": 8025,
+        "last_updated": "2024-12-11 10:53:54",
+        "location_coordinates": [
+            84.794024,
+            3.125559
+        ]
+    },
+    {
+        "robot_id": "340b5cf5-031c-4ef1-af01-ac17a55e234f",
+        "online_status": true,
+        "battery_percentage": 47,
+        "cpu_usage": 45,
+        "ram_consumption": 4248,
+        "last_updated": "2024-12-11 11:00:07",
+        "location_coordinates": [
+            -42.378683,
+            92.003573
+        ]
+    },
+    {
+        "robot_id": "f5c2a820-3b9f-4c41-8d46-22a0b03534e3",
+        "online_status": true,
+        "battery_percentage": 57,
+        "cpu_usage": 33,
+        "ram_consumption": 731,
+        "last_updated": "2024-12-11 10:52:49",
+        "location_coordinates": [
+            -50.638322,
+            -124.01008
+        ]
+    },
+    {
+        "robot_id": "3e7a2758-d9de-46e6-8346-9e4034c74d45",
+        "online_status": false,
+        "battery_percentage": 74,
+        "cpu_usage": 72,
+        "ram_consumption": 5986,
+        "last_updated": "2024-12-11 10:51:38",
+        "location_coordinates": [
+            62.795969,
+            177.598932
+        ]
+    },
+    {
+        "robot_id": "3ea78dcf-3e6f-453c-bcbd-464a56b93200",
+        "online_status": true,
+        "battery_percentage": 49,
+        "cpu_usage": 64,
+        "ram_consumption": 4964,
+        "last_updated": "2024-12-11 11:29:57",
+        "location_coordinates": [
+            -26.406196,
+            62.093355
+        ]
+    },
+    {
+        "robot_id": "43495daf-5137-4c3a-9b54-f76abe623c86",
+        "online_status": false,
+        "battery_percentage": 53,
+        "cpu_usage": 69,
+        "ram_consumption": 5356,
+        "last_updated": "2024-12-11 10:42:55",
+        "location_coordinates": [
+            36.007293,
+            115.784922
+        ]
+    },
+    {
+        "robot_id": "706cb2ba-1d49-42ea-8187-6759268266c2",
+        "online_status": true,
+        "battery_percentage": 17,
+        "cpu_usage": 43,
+        "ram_consumption": 4933,
+        "last_updated": "2024-12-11 10:57:56",
+        "location_coordinates": [
+            -1.113915,
+            -179.29772
+        ]
+    },
+    {
+        "robot_id": "4c8d5264-6e1a-4f9a-8722-baa362c6dab9",
+        "online_status": false,
+        "battery_percentage": 83,
+        "cpu_usage": 38,
+        "ram_consumption": 5011,
+        "last_updated": "2024-12-11 11:39:58",
+        "location_coordinates": [
+            47.323639,
+            50.477314
+        ]
+    },
+    {
+        "robot_id": "5b2334dd-51ed-4e91-b0c1-b9b127ac7fc0",
+        "online_status": false,
+        "battery_percentage": 61,
+        "cpu_usage": 25,
+        "ram_consumption": 5666,
+        "last_updated": "2024-12-11 11:38:31",
+        "location_coordinates": [
+            68.752225,
+            -162.674944
+        ]
+    },
+    {
+        "robot_id": "d871cd8c-ce20-4848-b010-d6ae4921d6d7",
+        "online_status": false,
+        "battery_percentage": 31,
+        "cpu_usage": 42,
+        "ram_consumption": 446,
+        "last_updated": "2024-12-11 11:07:33",
+        "location_coordinates": [
+            66.209322,
+            54.24403
+        ]
+    },
+    {
+        "robot_id": "5ac6af8f-1fda-4f8d-a64e-12d13b38845d",
+        "online_status": false,
+        "battery_percentage": 10,
+        "cpu_usage": 100,
+        "ram_consumption": 3700,
+        "last_updated": "2024-12-11 10:45:10",
+        "location_coordinates": [
+            9.062469,
+            10.33351
+        ]
+    },
+    {
+        "robot_id": "40fe91d0-0dd9-4fee-b09d-f42fccf19ba8",
+        "online_status": false,
+        "battery_percentage": 86,
+        "cpu_usage": 27,
+        "ram_consumption": 6480,
+        "last_updated": "2024-12-11 11:00:50",
+        "location_coordinates": [
+            -17.569812,
+            -30.47655
+        ]
+    },
+    {
+        "robot_id": "bc44c9fa-8660-41f7-9aff-9b1a36f16eb5",
+        "online_status": false,
+        "battery_percentage": 24,
+        "cpu_usage": 97,
+        "ram_consumption": 6671,
+        "last_updated": "2024-12-11 10:46:48",
+        "location_coordinates": [
+            -75.790335,
+            178.66213
+        ]
+    },
+    {
+        "robot_id": "a5eb7b65-7cba-41e0-acd3-7d751e80f175",
+        "online_status": true,
+        "battery_percentage": 77,
+        "cpu_usage": 27,
+        "ram_consumption": 5206,
+        "last_updated": "2024-12-11 11:31:10",
+        "location_coordinates": [
+            75.031463,
+            107.523697
+        ]
+    },
+    {
+        "robot_id": "ee0f1001-2e6d-4231-8666-489ec8cf55b9",
+        "online_status": false,
+        "battery_percentage": 36,
+        "cpu_usage": 42,
+        "ram_consumption": 3429,
+        "last_updated": "2024-12-11 11:21:24",
+        "location_coordinates": [
+            41.921135,
+            -85.197358
+        ]
+    },
+    {
+        "robot_id": "38f971dd-cfb8-4589-abf5-fee97e969431",
+        "online_status": false,
+        "battery_percentage": 71,
+        "cpu_usage": 7,
+        "ram_consumption": 7416,
+        "last_updated": "2024-12-11 11:18:53",
+        "location_coordinates": [
+            42.741986,
+            -160.533063
+        ]
+    },
+    {
+        "robot_id": "2f1c175d-c220-4772-b60a-eeb661e6dba8",
+        "online_status": false,
+        "battery_percentage": 69,
+        "cpu_usage": 68,
+        "ram_consumption": 1272,
+        "last_updated": "2024-12-11 10:43:20",
+        "location_coordinates": [
+            17.728736,
+            -72.182087
+        ]
+    },
+    {
+        "robot_id": "47f444d2-9246-4cad-8158-2f87d17c0e5c",
+        "online_status": false,
+        "battery_percentage": 21,
+        "cpu_usage": 100,
+        "ram_consumption": 6800,
+        "last_updated": "2024-12-11 10:43:54",
+        "location_coordinates": [
+            -28.849837,
+            -176.77513
+        ]
+    },
+    {
+        "robot_id": "f362fae9-4dba-42f5-9a40-a5bf6c10f1ad",
+        "online_status": true,
+        "battery_percentage": 13,
+        "cpu_usage": 91,
+        "ram_consumption": 4750,
+        "last_updated": "2024-12-11 11:15:10",
+        "location_coordinates": [
+            -12.366387,
+            178.339522
+        ]
+    },
+    {
+        "robot_id": "959c6765-6507-48b9-9cea-72b133361a73",
+        "online_status": false,
+        "battery_percentage": 29,
+        "cpu_usage": 37,
+        "ram_consumption": 5357,
+        "last_updated": "2024-12-11 11:13:52",
+        "location_coordinates": [
+            15.483482,
+            172.624849
+        ]
+    },
+    {
+        "robot_id": "6076fe81-8ea1-45a8-9712-44a987079145",
+        "online_status": false,
+        "battery_percentage": 52,
+        "cpu_usage": 77,
+        "ram_consumption": 801,
+        "last_updated": "2024-12-11 10:55:29",
+        "location_coordinates": [
+            83.104927,
+            57.273791
+        ]
+    },
+    {
+        "robot_id": "a5167fd5-cd0e-4c1d-b23f-c17326a2132b",
+        "online_status": true,
+        "battery_percentage": 24,
+        "cpu_usage": 24,
+        "ram_consumption": 8081,
+        "last_updated": "2024-12-11 11:03:27",
+        "location_coordinates": [
+            -72.343592,
+            -169.250652
+        ]
+    },
+    {
+        "robot_id": "387033db-3026-4fc1-ad52-98a1e129014d",
+        "online_status": true,
+        "battery_percentage": 89,
+        "cpu_usage": 33,
+        "ram_consumption": 7989,
+        "last_updated": "2024-12-11 11:34:55",
+        "location_coordinates": [
+            19.023696,
+            158.24911
+        ]
+    },
+    {
+        "robot_id": "ade8ee36-f49d-4a63-bd4e-1a5cba206c96",
+        "online_status": true,
+        "battery_percentage": 79,
+        "cpu_usage": 97,
+        "ram_consumption": 7144,
+        "last_updated": "2024-12-11 10:55:25",
+        "location_coordinates": [
+            15.119918,
+            -58.472449
+        ]
+    },
+    {
+        "robot_id": "9b513661-671c-452f-b628-501159cc18c8",
+        "online_status": false,
+        "battery_percentage": 91,
+        "cpu_usage": 47,
+        "ram_consumption": 2650,
+        "last_updated": "2024-12-11 11:30:10",
+        "location_coordinates": [
+            -23.325048,
+            -4.627026
+        ]
+    },
+    {
+        "robot_id": "635b48d3-9267-4d9e-ab98-7ab7b0f5b88f",
+        "online_status": false,
+        "battery_percentage": 65,
+        "cpu_usage": 24,
+        "ram_consumption": 7623,
+        "last_updated": "2024-12-11 11:34:31",
+        "location_coordinates": [
+            -55.968787,
+            -117.427588
+        ]
+    },
+    {
+        "robot_id": "b0f526d4-f08a-46f7-98d2-3be00c7fb8eb",
+        "online_status": true,
+        "battery_percentage": 51,
+        "cpu_usage": 47,
+        "ram_consumption": 257,
+        "last_updated": "2024-12-11 11:03:27",
+        "location_coordinates": [
+            -51.167422,
+            43.080002
+        ]
+    },
+    {
+        "robot_id": "6ffeb2e3-259c-496c-b1b1-cee784e40387",
+        "online_status": false,
+        "battery_percentage": 81,
+        "cpu_usage": 5,
+        "ram_consumption": 3901,
+        "last_updated": "2024-12-11 11:36:20",
+        "location_coordinates": [
+            -68.391739,
+            46.870257
+        ]
+    },
+    {
+        "robot_id": "f523931c-725f-4f45-b50c-26b68560686a",
+        "online_status": false,
+        "battery_percentage": 53,
+        "cpu_usage": 8,
+        "ram_consumption": 441,
+        "last_updated": "2024-12-11 10:42:07",
+        "location_coordinates": [
+            -75.341745,
+            -117.967401
+        ]
+    },
+    {
+        "robot_id": "86268f29-e5a0-4d2d-9576-1c7164b5d7b2",
+        "online_status": true,
+        "battery_percentage": 75,
+        "cpu_usage": 5,
+        "ram_consumption": 1575,
+        "last_updated": "2024-12-11 10:40:47",
+        "location_coordinates": [
+            58.117562,
+            -159.064385
+        ]
+    },
+    {
+        "robot_id": "97bca585-9b4c-46b2-8cf8-30033845fe72",
+        "online_status": true,
+        "battery_percentage": 37,
+        "cpu_usage": 23,
+        "ram_consumption": 7197,
+        "last_updated": "2024-12-11 11:04:25",
+        "location_coordinates": [
+            -5.20598,
+            -113.247642
+        ]
+    },
+    {
+        "robot_id": "25fd6e68-ce05-4e98-8fd3-f6f6cec2bfd4",
+        "online_status": false,
+        "battery_percentage": 87,
+        "cpu_usage": 84,
+        "ram_consumption": 4088,
+        "last_updated": "2024-12-11 10:59:22",
+        "location_coordinates": [
+            6.084968,
+            -24.963265
+        ]
+    },
+    {
+        "robot_id": "2df792dd-1be4-49ca-814e-f75e267401bf",
+        "online_status": true,
+        "battery_percentage": 77,
+        "cpu_usage": 56,
+        "ram_consumption": 6834,
+        "last_updated": "2024-12-11 11:14:56",
+        "location_coordinates": [
+            -37.023824,
+            -92.09178
+        ]
+    },
+    {
+        "robot_id": "595216c4-3fd8-42f8-b70a-53375b25987c",
+        "online_status": false,
+        "battery_percentage": 55,
+        "cpu_usage": 90,
+        "ram_consumption": 5394,
+        "last_updated": "2024-12-11 10:51:40",
+        "location_coordinates": [
+            11.910725,
+            -125.118593
+        ]
+    },
+    {
+        "robot_id": "3b5a9c34-f8d6-4992-a704-821306b2fffa",
+        "online_status": false,
+        "battery_percentage": 17,
+        "cpu_usage": 41,
+        "ram_consumption": 1437,
+        "last_updated": "2024-12-11 11:29:38",
+        "location_coordinates": [
+            -33.929594,
+            55.806733
+        ]
+    },
+    {
+        "robot_id": "ae1fb689-8165-476b-a4e7-4930c595ff1e",
+        "online_status": true,
+        "battery_percentage": 92,
+        "cpu_usage": 62,
+        "ram_consumption": 7698,
+        "last_updated": "2024-12-11 10:58:04",
+        "location_coordinates": [
+            71.219256,
+            -10.742007
+        ]
+    },
+    {
+        "robot_id": "74365555-f438-40e3-a40f-6a96d601de40",
+        "online_status": false,
+        "battery_percentage": 18,
+        "cpu_usage": 5,
+        "ram_consumption": 1916,
+        "last_updated": "2024-12-11 11:30:22",
+        "location_coordinates": [
+            -66.055654,
+            -9.251074
+        ]
+    },
+    {
+        "robot_id": "7fa0e45c-2fbc-4fe6-ad81-a1ec01217d6d",
+        "online_status": true,
+        "battery_percentage": 25,
+        "cpu_usage": 52,
+        "ram_consumption": 7434,
+        "last_updated": "2024-12-11 10:54:24",
+        "location_coordinates": [
+            -72.569531,
+            65.112901
+        ]
+    },
+    {
+        "robot_id": "e70f274f-e06c-4835-84b1-002bcdfdb32e",
+        "online_status": false,
+        "battery_percentage": 99,
+        "cpu_usage": 53,
+        "ram_consumption": 339,
+        "last_updated": "2024-12-11 11:01:52",
+        "location_coordinates": [
+            12.336147,
+            111.134118
+        ]
+    },
+    {
+        "robot_id": "ddfb0754-72d3-4edf-9053-da02eb5d8ff4",
+        "online_status": true,
+        "battery_percentage": 83,
+        "cpu_usage": 97,
+        "ram_consumption": 6010,
+        "last_updated": "2024-12-11 10:55:38",
+        "location_coordinates": [
+            51.368592,
+            -83.481359
+        ]
+    },
+    {
+        "robot_id": "5f75ecbd-299f-42bb-ad53-3e196b3184cc",
+        "online_status": true,
+        "battery_percentage": 90,
+        "cpu_usage": 2,
+        "ram_consumption": 5974,
+        "last_updated": "2024-12-11 10:43:04",
+        "location_coordinates": [
+            -12.544065,
+            -148.186359
+        ]
+    },
+    {
+        "robot_id": "7ed26375-4dbb-4f1c-968f-fb84b229379a",
+        "online_status": false,
+        "battery_percentage": 16,
+        "cpu_usage": 19,
+        "ram_consumption": 4716,
+        "last_updated": "2024-12-11 11:24:01",
+        "location_coordinates": [
+            9.36683,
+            148.678724
+        ]
+    },
+    {
+        "robot_id": "5fadeb5a-cc87-451e-bcab-99b2c5b56a76",
+        "online_status": false,
+        "battery_percentage": 52,
+        "cpu_usage": 88,
+        "ram_consumption": 443,
+        "last_updated": "2024-12-11 11:29:28",
+        "location_coordinates": [
+            -0.270717,
+            9.515096
+        ]
+    },
+    {
+        "robot_id": "1f4c23e1-5dd7-452a-92a1-6e347ce46aac",
+        "online_status": false,
+        "battery_percentage": 71,
+        "cpu_usage": 2,
+        "ram_consumption": 2617,
+        "last_updated": "2024-12-11 11:23:23",
+        "location_coordinates": [
+            24.549488,
+            37.76095
+        ]
+    },
+    {
+        "robot_id": "407d376a-c750-4e61-af53-66f326c95ed2",
+        "online_status": false,
+        "battery_percentage": 65,
+        "cpu_usage": 7,
+        "ram_consumption": 6555,
+        "last_updated": "2024-12-11 11:12:58",
+        "location_coordinates": [
+            -57.462741,
+            96.174781
+        ]
+    }
+]

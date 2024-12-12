@@ -17,6 +17,6 @@ def load_robot_data():
             cpu_usage=entry["cpu_usage"],
             ram_consumption=entry["ram_consumption"],
             last_updated=entry["last_updated"],
-            location=tuple(entry["location"]),
+            location_coordinates=tuple(entry["location_coordinates"]),
         )
         robots_store.append(robot)
