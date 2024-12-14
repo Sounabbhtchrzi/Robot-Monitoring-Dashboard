@@ -2,61 +2,66 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-    section{
-        @apply py-[75px]
+/* Base styles */
+@layer base {
+    body {
+        @apply bg-gray-900 text-gray-200; /* Dark background with light text */
+    }
+    section {
+        @apply py-[75px];
     }
 }
 
-@layer components{
-    .container{
-        @apply max-w-full w-[1440px] lg:px-[80px] mx-auto
+/* Component styles */
+@layer components {
+    .container {
+        @apply max-w-full w-[1440px] lg:px-[80px] mx-auto;
     }
 
-    .btn{
-        @apply bg-Color py-[15px] px-[35px] rounded-[50px] text-white font-[500] mt-[18px]
+    .btn {
+        @apply bg-blue-600 py-[15px] px-[35px] rounded-[50px] text-white font-[500] mt-[18px];
     }
 
-    .heading{
-        @apply text-[44px] leading-[54px] font-[700] text-HeadingColor
+    .heading {
+        @apply text-[44px] leading-[54px] font-[700] text-gray-100; /* Adjusted for dark mode */
     }
 
-    .paragraph{
-        @apply text-[18px] leading-[25px] font-[300] text-HeadingColor mt-[18px]
+    .paragraph {
+        @apply text-[18px] leading-[25px] font-[300] text-gray-400 mt-[18px]; /* Softer text color */
     }
 
-    .header{
-        @apply bg-[url('./assets/images/mask.png')] bg-no-repeat bg-center bg-cover w-full h-[100px] leading-[100x]
+    .header {
+        @apply bg-[url('./assets/images/mask.png')] bg-no-repeat bg-center bg-cover w-full h-[100px] leading-[100px];
     }
 
-    .heroSection{
-        @apply bg-[url('./assets/images/hero-bg.png')] bg-no-repeat bg-center bg-cover 
+    .heroSection {
+        @apply bg-[url('./assets/images/hero-bg.png')] bg-no-repeat bg-center bg-cover;
     }
 
     .form_label {
-        @apply text-TextColor font-semibold text-[16px] leading-7 mb-2
+        @apply text-gray-400 font-semibold text-[16px] leading-7 mb-2; /* Softer text for forms */
     }
 
     .form_input {
-        @apply w-full px-4 py-3 border border-solid border-[#0066ff61] focus:outline-none focus:border-Color text-[16px] leading-7 text-HeadingColor placeholder:text-TextColor 
+        @apply w-full px-4 py-3 border border-solid border-gray-700 bg-gray-800 focus:outline-none focus:border-blue-600 text-[16px] leading-7 text-gray-200 placeholder:text-gray-500;
     }
 }
 
-@media only screen and (max-width:1024px) {
-    .container{
+/* Responsive styles */
+@media only screen and (max-width: 1024px) {
+    .container {
         @apply w-full;
     }
-    section{
-        @apply py-[35px]
+    section {
+        @apply py-[35px];
     }
 }
 
-@media only screen and (max-width:760px) {
-    .heading{
+@media only screen and (max-width: 760px) {
+    .heading {
         @apply text-[26px] leading-[36px];
     }
-    .paragraph{
+    .paragraph {
         @apply text-[16px] leading-7 mt-3;
     }
 }
-

@@ -10,7 +10,7 @@ load_robot_data()
 @router.get("/")
 def get_all_robots():
     """Fetch all robot telemetry data."""
-    return robots_store[0:10]
+    return robots_store
 
 @router.get("/{robot_id}")
 def get_robot_by_id(robot_id: str):
