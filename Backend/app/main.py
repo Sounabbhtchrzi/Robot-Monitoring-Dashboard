@@ -1,14 +1,22 @@
 from fastapi import FastAPI
 from app.routes.robots import router as robots_router
 from fastapi.middleware.cors import CORSMiddleware
+import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Get frontend URL from the environment variable
+frontend_url = os.getenv("FRONTEND_URL") 
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Replace '*' with the specific origin(s) you want to allow
-    allow_methods=["http://localhost:5173"],
-    allow_headers=["http://localhost:5173"],
+    allow_origins=[frontend_url],  
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 # Include robot routes
 app.include_router(robots_router)
